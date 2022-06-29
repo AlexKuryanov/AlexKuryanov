@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexKuryanov
+- 👋 Hi, I’m @AlexKuryanov, I've just moved to Serbia and I'm looking for a job or internity as a Junior Frontend-developer
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on companies, where I can be effective
