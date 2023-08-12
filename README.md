@@ -21,3 +21,9 @@ My projects:
 [Virtual-piano (JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFE2021Q1/virtual-piano)
 
 [Portfolio (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/portfolio)
+
+[Landing (HTML, CSS & JS)](https://alexkuryanov.github.io/mulih/)
+
+[RDO in Serbia (CSS, PHP & Wordpress)](https://rdo.rs/site/)
+
+[Prochaity fund "Dobroe-serdechko"(HTML, CSS, JS, PHP & Wordpress)](https://доброе-сердечко.рф/)
