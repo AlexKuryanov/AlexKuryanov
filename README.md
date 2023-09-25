@@ -2,11 +2,9 @@
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning HTML, CSS and JavaScript, Gulp, Pug, Sass/Less
 - 💞️ I’m looking to collaborate on companies, where I can be effective
-- 📫 How to reach me: mail to lexxus07@yandex.ru
+- 📫 How to reach me: mail to leks.kurianov@gmail.com or message me in Telegram @Xelruk
 
 My projects:
-
-[Slider with popup (HTML & CSS)](https://alexkuryanov.github.io/coursera/grandma's-harvest/)
 
 [CSS animation (CSS)](https://alexkuryanov.github.io/coursera/animation/)
 
