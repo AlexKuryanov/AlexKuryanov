@@ -14,7 +14,7 @@ My projects:
 
 [Scandi (HTML & CSS)](https://github.com/AlexKuryanov/Zaverstaju-3.0)
 
-[Custom Audio-player](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/audio-player/)
+[Custom Audio-player(HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/audio-player/)
 
 [Custom Video-player (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/custom-video-player/)
 
