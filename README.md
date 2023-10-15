@@ -8,7 +8,7 @@ My projects:
 
 [CSS animation (CSS)](https://alexkuryanov.github.io/coursera/animation/)
 
-[Flashcards (HTML & CSS)](https://alexkuryanov.github.io/Flashcards/Flashcards/task/src/)
+[Image-gallery (HTML, CSS, JS, API)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/image-gallery/))
 
 [Case Converter (HTML, CSS & JS)](https://alexkuryanov.github.io/Case-Converter1/Case%20Converter/task/src/)
 
