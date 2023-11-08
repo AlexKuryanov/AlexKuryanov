@@ -32,8 +32,6 @@ Adaptive and semantic layout, styling, adding functionality:
 -save custom settings in localStorage,   
 -adding the Ripple effect to buttons when clicked  
 
-[Landing (HTML, CSS & JS)](https://alexkuryanov.github.io/mulih/)
-
 [RDO in Serbia (CSS, PHP & Wordpress)](https://rdo.rs/site/)
 
 [Procharity fund "Dobroe-serdechko"(HTML, CSS, JS, PHP & Wordpress)](https://доброе-сердечко.рф/)
