@@ -6,23 +6,31 @@
 
 My projects:
 
-[CSS animation (CSS)](https://alexkuryanov.github.io/coursera/animation/)
+[CSS animation (CSS)](https://alexkuryanov.github.io/coursera/animation/)  
 Added CSS-Animation to markup
 
-[Image-gallery (HTML, CSS, JS, API)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/image-gallery/)
+[Image-gallery (HTML, CSS, JS, API)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/image-gallery/)  
+The app gets images from Unsplash API and show them. Added keyword search
 
+[Case Converter (HTML, CSS & JS)](https://alexkuryanov.github.io/Case-Converter1/Case%20Converter/task/src/)  
+The app converts words to upper-, lower-, sentence- and proper cases and can save the result to txt-files
 
-[Case Converter (HTML, CSS & JS)](https://alexkuryanov.github.io/Case-Converter1/Case%20Converter/task/src/)
+[Custom Audio-player(HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/audio-player/)  
+The music player automatically plays music tracks or scrolls through them by clicking on the buttons. Each music track has a specific background image. 
 
-[Scandi (HTML & CSS)](https://github.com/AlexKuryanov/Zaverstaju-3.0)
+[Custom Video-player (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/custom-video-player/)  
+The video player plays video, has mouse and keyboard controls
 
-[Custom Audio-player(HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/audio-player/)
+[Virtual-piano (JS, DOM)](https://rolling-scopes-school.github.io/alexkuryanov-JSFE2021Q1/virtual-piano)  
+Added functionality for mouse and keyboard control
 
-[Custom Video-player (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/custom-video-player/)
-
-[Virtual-piano (JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFE2021Q1/virtual-piano)
-
-[Portfolio (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/portfolio)
+[Portfolio (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/portfolio)  
+Adaptive and semantic layout, styling, adding functionality:  
+-change images,  
+-translate the page into two languages,   
+-the ability switch light and dark themes,   
+-save custom settings in localStorage,   
+-adding the Ripple effect to buttons when clicked  
 
 [Landing (HTML, CSS & JS)](https://alexkuryanov.github.io/mulih/)
 
