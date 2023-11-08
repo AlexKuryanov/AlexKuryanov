@@ -32,8 +32,20 @@ Adaptive and semantic layout, styling, adding functionality:
 -save custom settings in localStorage,   
 -adding the Ripple effect to buttons when clicked  
 
-[RDO in Serbia (CSS, PHP & Wordpress)](https://rdo.rs/site/)
+[Shelter (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFE2022Q1/shelter/pages/pets/index.html)  
+Layout: valid, semantic and adaptive + styling, without functionality
 
-[Procharity fund "Dobroe-serdechko"(HTML, CSS, JS, PHP & Wordpress)](https://доброе-сердечко.рф/)
+[RDO in Serbia (CSS, PHP & Wordpress)](https://rdo.rs/site/)  
+Сustomized Kandinsky theme for design 
 
-[Luxoride (Angular)](https://alexkuryanov.github.io/luxorides-app/)
+[Procharity fund "Dobroe-serdechko"(HTML, CSS, JS, PHP & Wordpress)](https://доброе-сердечко.рф/)  
+Layout by design, adaptability, scripts, landing on WordPress
+
+[Luxoride (Angular)](https://alexkuryanov.github.io/luxorides-app/)  
+Practiced working with Angular
+
+[Portfolio (Webflow, Animation)](https://lexs-portfolio-07efce.webflow.io/)  
+Created portfolio on Webflow, added animation
+
+[Recycle - landing page(Webflow)](https://recycle-0ff1b1.webflow.io/)  
+Created landing page on Webflow
