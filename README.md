@@ -10,7 +10,7 @@ My projects:
 Added CSS-Animation to markup
 
 [Image-gallery (HTML, CSS, JS, API)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL2023Q2/image-gallery/)  
-The app gets images from Unsplash API and show them. Added keyword search
+The app gets images from Unsplash API and shows them. Added keyword search
 
 [Case Converter (HTML, CSS & JS)](https://alexkuryanov.github.io/Case-Converter1/Case%20Converter/task/src/)  
 The app converts words to upper-, lower-, sentence- and proper cases and can save the result to txt-files
