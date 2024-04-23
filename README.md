@@ -53,5 +53,5 @@ Created portfolio on Webflow, added animation
 [Website for app (Webflow, Animation)](https://opteo-679664.webflow.io/#functions)  
 Created website for an app on Webflow with animation
 
-[Contrast Harmony - landing page(Webflow)](https://contrast-harmony-eeda36.webflow.io/)  
+[Contrast Harmony - landing page(Webflow, GSAP)](https://contrast-harmony-eeda36.webflow.io/)  
 Created landing page on Webflow with GSAP
