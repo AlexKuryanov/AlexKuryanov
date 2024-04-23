@@ -41,9 +41,6 @@ Layout: valid, semantic and adaptive + styling, without functionality
 [Procharity fund "Dobroe-serdechko"(HTML, CSS, JS, PHP & Wordpress)](https://доброе-сердечко.рф/)  
 Layout by design, adaptability, scripts, landing on WordPress
 
-[Luxoride (Angular)](https://alexkuryanov.github.io/luxorides-app/)  
-Practiced working with Angular
-
 [Portfolio-1 (Webflow, Animation)](https://lexs-portfolio-07efce.webflow.io/)  
 Created portfolio on Webflow, added animation
 
