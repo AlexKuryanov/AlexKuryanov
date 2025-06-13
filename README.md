@@ -35,9 +35,6 @@ Adaptive and semantic layout, styling, adding functionality:
 [Shelter (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFE2022Q1/shelter/pages/main/index.html)  
 Layout: valid, semantic and adaptive + styling, without functionality
 
-[RDO in Serbia (CSS, PHP & Wordpress)](https://rdo.rs/site/)  
-Сustomized Kandinsky theme for design 
-
 [Procharity fund "Dobroe-serdechko"(HTML, CSS, JS, PHP & Wordpress)](https://доброе-сердечко.рф/)  
 Layout by design, adaptability, scripts, landing on WordPress
 
