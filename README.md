@@ -24,7 +24,7 @@ The video player plays video, has mouse and keyboard controls
 [Virtual-piano (JS, DOM)](https://rolling-scopes-school.github.io/alexkuryanov-JSFE2021Q1/virtual-piano)  
 Added functionality for mouse and keyboard control
 
-[Portfolio (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/portfolio)  
+[Portfolio (HTML, CSS & JS)](https://rs-school-portfolio.surge.sh/)  
 Adaptive and semantic layout, styling, adding functionality:  
 -change images,  
 -translate the page into two languages,   
