@@ -21,7 +21,7 @@ The music player automatically plays music tracks or scrolls through them by cli
 [Custom Video-player (HTML, CSS & JS)](https://rolling-scopes-school.github.io/alexkuryanov-JSFEPRESCHOOL/custom-video-player/)  
 The video player plays video, has mouse and keyboard controls
 
-[Virtual-piano (JS, DOM)](https://rolling-scopes-school.github.io/alexkuryanov-JSFE2021Q1/virtual-piano)  
+[Virtual-piano (JS, DOM)](https://rs-virtual-piano.surge.sh/)  
 Added functionality for mouse and keyboard control
 
 [Portfolio (HTML, CSS & JS)](https://rs-school-portfolio.surge.sh/)  
